@@ -1,6 +1,6 @@
-package S36_KeyboardActions;
+package S39_Brokenlink_SVGEle_ShadowDOM;
 
-public class S36_Slider {
+public class S39_ShadowDom {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
